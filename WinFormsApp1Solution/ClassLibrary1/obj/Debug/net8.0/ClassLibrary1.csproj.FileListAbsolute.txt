@@ -1,0 +1,11 @@
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\23017224\OneDrive - Massey University\Desktop\158326 Software Construction\Week1\WinFormsApp1Solution\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
