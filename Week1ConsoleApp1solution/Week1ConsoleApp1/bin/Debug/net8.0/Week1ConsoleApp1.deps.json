@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week1ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Week1ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Week1ConsoleApp1.dll": {}
+        }
+      },
+      "Week1ClassLibrary1/1.0.0": {
+        "runtime": {
+          "Week1ClassLibrary1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week1ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Week1ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

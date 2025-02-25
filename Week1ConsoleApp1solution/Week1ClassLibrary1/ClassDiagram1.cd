@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Week1ClassLibrary1.ParkingType">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParkingType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Week1ClassLibrary1.StaffParking">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Week1ClassLibrary1.ParkingType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.938" Y="3" />
+        <Point X="3.938" Y="2.217" />
+        <Point X="5.25" Y="2.217" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StaffParking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Week1ClassLibrary1.CustomerParking">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="Week1ClassLibrary1.ParkingType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4" Y="4.555" />
+        <Point X="4" Y="5.43" />
+        <Point X="5.25" Y="5.43" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerParking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Week1ClassLibrary1.ParkingException">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParkingException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
